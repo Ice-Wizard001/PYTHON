@@ -1,0 +1,4 @@
+Source Code: https://github.com/CodeWithHarry/The-...
+Python PDF Handbook (authored by me): https://www.codewithharry.com/notes/
+Download the Handwritten notes (handwritten by me): https://www.codewithharry.com/notes
+Download the Ultimate Python Cheatsheet:https://www.codewithharry.com/blogpost/python-cheatsheet/
